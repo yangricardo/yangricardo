@@ -21,8 +21,10 @@
     <img src="https://raw.githubusercontent.com/yangricardo/github-stats/master/generated/languages.svg#gh-light-mode-only"/>       
   </th>
 </table>
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Yang Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangricardo&count_private=true&show_icons=true&theme=dark&layout=compact)
+
+[![Yang Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangricardo&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Yang Ricardo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangricardo&count_private=true&show_icons=true&theme=dark&include_all_commits=true&layout=compact&langs_count=10&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
