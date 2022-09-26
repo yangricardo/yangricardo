@@ -29,3 +29,6 @@
 [![Yang Ricardo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangricardo&count_private=true&show_icons=true&theme=dark&include_all_commits=true&layout=compact&langs_count=10&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Yang Ricardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yangricardo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yangricardo/)
