@@ -1,4 +1,4 @@
-<img src="https://yang.dev.br/favicon.svg" alt="Yang DevBR"/>
+<img src="https://yang.dev.br/favicon.svg" alt="Yang DevBR" width="64" height="64"/>
 
 ## Hi there, I’m Yang Ricardo 👋
 
