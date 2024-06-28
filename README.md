@@ -1,4 +1,8 @@
+<img src="https://yang.dev.br/favicon.svg" alt="Yang DevBR"/>
+
 ## Hi there, I’m Yang Ricardo 👋
+
+Know more at: [Yang DevBR](https://yang.dev.br)
 
 
 - 🔭 I’m currently working on Web3 research projects at [ECOA PUC-Rio](https://ecoa.puc-rio.br) and at [Play For A Cause](https://play.foracause.com.br) new e-commerce platform.
