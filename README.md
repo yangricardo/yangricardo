@@ -31,12 +31,12 @@ Know more at: [yang.dev.br](https://yang.dev.br)
 ---
 
 ### 📚 Selected R&D Publications:
-- **2025:** *From Collection to Analysis: A Blockchain Solution for Transparent and Reliable Chain of Custody in the O&G Sector*.
-- **2023:** *Enhancing Corporate Social Responsibility with Blockchain-based Trackable ESG Tokens* (WBlockchain).
-- **2022:** *Blockchain-Based Enterprise Ballots in an Oil and Gas Consortium* (LNBIP).
-- **2021:** *A Blockchain-Based Architecture for Enterprise Ballot* (ICEIS).
-- **2020:** *Distributed ledger technology in the oil and gas sector: Libra Ballot use case*.
-- **2020:** *Blockchain digital signatures in a big corporation: a challenge for costs management sector*.
+- **2025:** *[From Collection to Analysis: A Blockchain Solution for Transparent and Reliable Chain of Custody in the O&G Sector](https://www.scitepress.org/publishedPapers/2025/134976/pdf/index.html)*.
+- **2023:** *[Enhancing Corporate Social Responsibility with Blockchain-based Trackable ESG Tokens](https://sol.sbc.org.br/index.php/wblockchain/article/view/24625/24446)* (WBlockchain).
+- **2022:** *[Blockchain-Based Enterprise Ballots in an Oil and Gas Consortium](https://www.researchgate.net/publication/361827393_Blockchain-Based_Enterprise_Ballots_in_an_Oil_and_Gas_Consortium)* (LNBIP).
+- **2021:** *[A Blockchain-Based Architecture for Enterprise Ballot](https://pdfs.semanticscholar.org/ebe4/968162d6d4192f8a3dda5f6e1bc8b68999ed.pdf)* (ICEIS).
+- **2020:** *[Distributed ledger technology in the oil and gas sector: Libra Ballot use case](https://www.researchgate.net/publication/348537296_Distributed_ledger_technology_in_the_oil_and_gas_sector_Libra_Ballot_use_case)*.
+- **2020:** *[Blockchain digital signatures in a big corporation: a challenge for costs management sector](https://www.researchgate.net/publication/348536281_Blockchain_digital_signatures_in_a_big_corporation_a_challenge_for_costs_management_sector)*.
 
 ---
 
@@ -64,4 +64,4 @@ Know more at: [yang.dev.br](https://yang.dev.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yangricardo/)
 [![Website](https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=html5&logoColor=white)](https://yang.dev.br)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Yang-Miranda)
-[![Wakatime](https://wakatime.com/@yangricardo)
+[![Wakatime](https://img.shields.io/badge/Wakatime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@yangricardo)
