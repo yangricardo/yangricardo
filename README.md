@@ -60,27 +60,7 @@ Know more at: [yang.dev.br](https://yang.dev.br) | [Google Scholar Profile](http
 
 - **2020** — [*BallotBR – Uma Aplicação em Blockchain para Execução de Deliberações em Consórcios de Óleo e Gás*](https://www.researchgate.net/publication/370364073_BallotBR_-_Uma_aplicacao_em_Blockchain_para_execucao_de_deliberacoes_em_consorcios_deoleo_e_gas)  
   *Relatório Técnico de Inovação e Governança DLT*.
-
----
-
-#### 📈 Overview & Code Analytics
-<table>
-  <th>
-    <img src="https://raw.githubusercontent.com/yangricardo/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
-    <img src="https://raw.githubusercontent.com/yangricardo/github-stats/master/generated/overview.svg#gh-light-mode-only"/>    
-  </th>
-  <th>
-    <img src="https://raw.githubusercontent.com/yangricardo/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
-    <img src="https://raw.githubusercontent.com/yangricardo/github-stats/master/generated/languages.svg#gh-light-mode-only"/>        
-  </th>
-</table>
-
-[![Yang Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangricardo&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Yang Ricardo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangricardo&count_private=true&show_icons=true&theme=dark&include_all_commits=true&layout=compact&langs_count=10&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Yang Ricardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yangricardo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+  
 ---
 
 ### 📫 How to reach me:
