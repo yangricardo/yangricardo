@@ -7,7 +7,7 @@ I am a Tech Lead, Software Architect, and R&D Researcher who bridges the gap bet
 
 Currently, I am a Master's Candidate in Computer Science at **DI/PUC-Rio**, focusing my research on **Knowledge Graphs and Semantic Interoperability**.
 
-Know more at: [yang.dev.br](https://yang.dev.br)
+Know more at: [yang.dev.br](https://yang.dev.br) | [Google Scholar Profile](https://scholar.google.com/citations?user=snO4Qt4AAAAJ)
 
 ---
 
@@ -25,18 +25,31 @@ Know more at: [yang.dev.br](https://yang.dev.br)
 | **Backend & Enterprise** | TypeScript (`NestJS`, `Node.js`), Java (`Spring Boot`, `Quarkus`), Python (`Django`, `DRF`) |
 | **Web3 & DLT** | `Hyperledger Fabric`, `Hyperledger Besu`, `Rede Blockchain Brasil (RBB)`, `Solidity`, `Hardhat` |
 | **Frontend Web** | `React`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Ant Design`, `Mantine` |
-| **Data & Semantics** | `PostgreSQL`, `Redis`, `MongoDB` , `Knowledge Graphs`, |
+| **Data & Semantics** | `PostgreSQL`, `Redis`, `MongoDB`, `Knowledge Graphs` |
 | **DevOps & Cloud** | `Docker`, `Kubernetes`, `GitHub Actions`, `Railway` |
 
 ---
 
-### 📚 Selected R&D Publications:
-- **2025:** *[From Collection to Analysis: A Blockchain Solution for Transparent and Reliable Chain of Custody in the O&G Sector](https://www.scitepress.org/publishedPapers/2025/134976/pdf/index.html)*.
-- **2023:** *[Enhancing Corporate Social Responsibility with Blockchain-based Trackable ESG Tokens](https://sol.sbc.org.br/index.php/wblockchain/article/view/24625/24446)* (WBlockchain).
-- **2022:** *[Blockchain-Based Enterprise Ballots in an Oil and Gas Consortium](https://www.researchgate.net/publication/361827393_Blockchain-Based_Enterprise_Ballots_in_an_Oil_and_Gas_Consortium)* (LNBIP).
-- **2021:** *[A Blockchain-Based Architecture for Enterprise Ballot](https://pdfs.semanticscholar.org/ebe4/968162d6d4192f8a3dda5f6e1bc8b68999ed.pdf)* (ICEIS).
-- **2020:** *[Distributed ledger technology in the oil and gas sector: Libra Ballot use case](https://www.researchgate.net/publication/348537296_Distributed_ledger_technology_in_the_oil_and_gas_sector_Libra_Ballot_use_case)*.
-- **2020:** *[Blockchain digital signatures in a big corporation: a challenge for costs management sector](https://www.researchgate.net/publication/348536281_Blockchain_digital_signatures_in_a_big_corporation_a_challenge_for_costs_management_sector)*.
+### 📚 Selected R&D Publications & Papers:
+
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Perfil_Acadêmico-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=snO4Qt4AAAAJ)
+
+- **2025** — [*From Collection to Analysis: A Blockchain Solution for Transparent and Reliable Chain of Custody in the O&G Sector*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ)  
+  *ICEIS (1)*, pp. 410–417.
+- **2024** — [*Blockchain-Powered Offloading: Smart Contracts for Transparent and Secure Operations in Oil and Gas Sector*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ)  
+  *International Conference on Enterprise Information Systems (Springer)*, pp. 277–298.
+- **2023** — [*Enhancing Corporate Social Responsibility with Blockchain-based Trackable ESG Tokens*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ)  
+  *Workshop em Blockchain: Teoria, Tecnologias e Aplicações (WBlockchain / SBC)*, pp. 112–125.
+- **2022** — [*Blockchain-Based Enterprise Ballots in an Oil and Gas Consortium*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ)  
+  *Enterprise Information Systems (Springer Nature / LNBIP)*, Vol. 448, p. 211.
+- **2021** — [*A Blockchain-based Architecture for Enterprise Ballot*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ)  
+  *23rd International Conference on Enterprise Information Systems (ICEIS 2)*, pp. 232–240.
+- **2020** — [*Exploring Blockchain Technology to Improve Multi-party Relationship in Business Process Management Systems*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ)  
+  *22nd International Conference on Enterprise Information Systems (ICEIS 2)*, pp. 817–825.
+- **2020** — [*Aplicação da Tecnologia Blockchain para Assinatura de Documentos em Grandes Empresas: Um Desafio para Gestão de Custos*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ)  
+  *Rio Oil & Gas Expo and Conference*.
+- **2020** — [*Tecnologias de Registro Distribuídos para a Indústria de Óleo e Gás em Regime de Consórcio: O Caso Ballot de Libra*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ)  
+  *Relatório Técnico / P&D Óleo & Gás*.
 
 ---
 
@@ -63,5 +76,6 @@ Know more at: [yang.dev.br](https://yang.dev.br)
 ### 📫 How to reach me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yangricardo/)
 [![Website](https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=html5&logoColor=white)](https://yang.dev.br)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=snO4Qt4AAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Yang-Miranda)
 [![Wakatime](https://img.shields.io/badge/Wakatime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@yangricardo)
