@@ -30,26 +30,39 @@ Know more at: [yang.dev.br](https://yang.dev.br) | [Google Scholar Profile](http
 
 ---
 
-### 📚 Selected R&D Publications & Papers:
+### 📚 Complete R&D Publications & Papers (Google Scholar):
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Perfil_Acadêmico-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=snO4Qt4AAAAJ)
 
 - **2025** — [*From Collection to Analysis: A Blockchain Solution for Transparent and Reliable Chain of Custody in the O&G Sector*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ)  
   *ICEIS (1)*, pp. 410–417.
-- **2024** — [*Blockchain-Powered Offloading: Smart Contracts for Transparent and Secure Operations in Oil and Gas Sector*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ)  
+
+- **2024** — [*Blockchain-Powered Offloading: Smart Contracts for Transparent and Secure Operations in Oil and Gas Sector*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ) ⭐ `1 citation`  
   *International Conference on Enterprise Information Systems (Springer)*, pp. 277–298.
-- **2023** — [*Enhancing Corporate Social Responsibility with Blockchain-based Trackable ESG Tokens*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ)  
+
+- **2023** — [*Enhancing Corporate Social Responsibility with Blockchain-based Trackable ESG Tokens*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ) ⭐ `9 citations`  
   *Workshop em Blockchain: Teoria, Tecnologias e Aplicações (WBlockchain / SBC)*, pp. 112–125.
+
 - **2022** — [*Blockchain-Based Enterprise Ballots in an Oil and Gas Consortium*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ)  
-  *Enterprise Information Systems (Springer Nature / LNBIP)*, Vol. 448, p. 211.
-- **2021** — [*A Blockchain-based Architecture for Enterprise Ballot*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ)  
+  *Enterprise Information Systems (Springer Nature / LNBIP 448)*, p. 211.
+
+- **2021** — [*Blockchain-based Enterprise Ballots in an Oil and Gas Consortium*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ) ⭐ `6 citations`  
+  *International Conference on Enterprise Information Systems*, pp. 211–235.
+
+- **2021** — [*A Blockchain-based Architecture for Enterprise Ballot*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ) ⭐ `4 citations`  
   *23rd International Conference on Enterprise Information Systems (ICEIS 2)*, pp. 232–240.
-- **2020** — [*Exploring Blockchain Technology to Improve Multi-party Relationship in Business Process Management Systems*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ)  
+
+- **2020** — [*Exploring Blockchain Technology to Improve Multi-party Relationship in Business Process Management Systems*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ) ⭐ `28 citations`  
   *22nd International Conference on Enterprise Information Systems (ICEIS 2)*, pp. 817–825.
-- **2020** — [*Aplicação da Tecnologia Blockchain para Assinatura de Documentos em Grandes Empresas: Um Desafio para Gestão de Custos*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ)  
+
+- **2020** — [*Tecnologias de Registro Distribuídos para a Indústria de Óleo e Gás em Regime de Consórcio: O Caso Ballot de Libra*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ) ⭐ `1 citation`  
+  *Relatório de P&D Óleo & Gás / Consórcio de Libra*.
+
+- **2020** — [*Aplicação da Tecnologia Blockchain para Assinatura de Documentos em Grandes Empresas: Um Desafio para Gestão de Custos*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ) ⭐ `1 citation`  
   *Rio Oil & Gas Expo and Conference*.
-- **2020** — [*Tecnologias de Registro Distribuídos para a Indústria de Óleo e Gás em Regime de Consórcio: O Caso Ballot de Libra*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ)  
-  *Relatório Técnico / P&D Óleo & Gás*.
+
+- **2020** — [*BallotBR – Uma Aplicação em Blockchain para Execução de Deliberações em Consórcios de Óleo e Gás*](https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ)  
+  *Relatório Técnico de Inovação e Governança DLT*.
 
 ---
 
