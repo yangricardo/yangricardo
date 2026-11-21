@@ -34,7 +34,7 @@ Know more at: [yang.dev.br](https://yang.dev.br) | [Google Scholar Profile](http
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Perfil_Acadêmico-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=snO4Qt4AAAAJ)
 
-- **2025** — [*From Collection to Analysis: A Blockchain Solution for Transparent and Reliable Chain of Custody in the O&G Sector*]([https://scholar.google.com/citations?view_op=view_citation&user=snO4Qt4AAAAJ](https://www.scitepress.org/Papers/2025/134976/134976.pdf))  
+- **2025** — [*From Collection to Analysis: A Blockchain Solution for Transparent and Reliable Chain of Custody in the O&G Sector*](https://www.scitepress.org/Papers/2025/134976/134976.pdf) 
   *ICEIS (1)*, pp. 410–417.
 
 - **2024** — [*Blockchain-Powered Offloading: Smart Contracts for Transparent and Secure Operations in Oil and Gas Sector*](https://www.scitepress.org/publishedPapers/2024/127214/pdf/index.html) ⭐ `1 citation`  
