@@ -1,7 +1,7 @@
 <img src="https://yang.dev.br/favicon.svg" alt="Yang DevBR" width="64" height="64"/>
 
 ## Hi there, I’m Yang Ricardo 👋
-### Tech Lead | Software Architect | Web3 & DLT Enterprise | Knowledge Graphs & Semantic Data
+### Tech Lead | Software Architect | Knowledge Graphs & Semantic Data Researcher | Enterprise Web3 & DLT Engineering
 
 I am a Tech Lead, Software Architect, and R&D Researcher who bridges the gap between enterprise software engineering, decentralized ledgers (Blockchain), and semantic knowledge architectures. 
 
