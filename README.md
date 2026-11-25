@@ -34,6 +34,9 @@ Know more at: [yang.dev.br](https://yang.dev.br) | [Google Scholar Profile](http
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Perfil_Acadêmico-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=snO4Qt4AAAAJ)
 
+- **2026** - [*IBR-FLEX: UMA PLATAFORMA DIGITAL INTEGRADA PARA GESTÃO DE INTEGRIDADE E DE RISCO EM DUTOS FLEXÍVEIS*](https://www.portalabpg.org.br/anais/trabalho.php?edicao=13&codigo=00504)
+  *PD-Petro - Anais do 13º Congresso Brasileiro de Pesquisa e Desenvolvimento em Petróleo, Gás e Biocombustíveis*
+
 - **2025** — [*From Collection to Analysis: A Blockchain Solution for Transparent and Reliable Chain of Custody in the O&G Sector*](https://www.scitepress.org/Papers/2025/134976/134976.pdf) 
   *ICEIS (1)*, pp. 410–417.
 
